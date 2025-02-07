@@ -1,0 +1,18 @@
+
+form{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    border: 2px solid black;
+    padding: 5%;
+    border-radius: 5%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.1);
+}
+
+input{
+    margin-bottom: 5%;
+}
+
+
